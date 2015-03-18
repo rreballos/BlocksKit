@@ -115,9 +115,6 @@
 		DBFB0A02184DC7E400F37EEE /* NSCache+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DBFB09F3184DC7E400F37EEE /* NSCache+BlocksKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DBFB0A03184DC7E400F37EEE /* NSCache+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFB09F4184DC7E400F37EEE /* NSCache+BlocksKit.m */; };
 		DBFB0A04184DC7E400F37EEE /* NSCache+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFB09F4184DC7E400F37EEE /* NSCache+BlocksKit.m */; };
-		DBFB0A05184DC7E400F37EEE /* NSURLConnection+BlocksKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DBFB09F5184DC7E400F37EEE /* NSURLConnection+BlocksKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DBFB0A06184DC7E400F37EEE /* NSURLConnection+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFB09F6184DC7E400F37EEE /* NSURLConnection+BlocksKit.m */; };
-		DBFB0A07184DC7E400F37EEE /* NSURLConnection+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFB09F6184DC7E400F37EEE /* NSURLConnection+BlocksKit.m */; };
 		DBFB0A08184DC7E400F37EEE /* NSObject+A2BlockDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = DBFB09F7184DC7E400F37EEE /* NSObject+A2BlockDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DBFB0A09184DC7E400F37EEE /* NSObject+A2BlockDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFB09F8184DC7E400F37EEE /* NSObject+A2BlockDelegate.m */; };
 		DBFB0A0A184DC7E400F37EEE /* NSObject+A2BlockDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFB09F8184DC7E400F37EEE /* NSObject+A2BlockDelegate.m */; };
@@ -129,7 +126,6 @@
 		DBFB0A10184DC7FB00F37EEE /* NSObject+A2BlockDelegate.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DBFB09F7184DC7E400F37EEE /* NSObject+A2BlockDelegate.h */; };
 		DBFB0A11184DC7FB00F37EEE /* NSObject+A2DynamicDelegate.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DBFB09F9184DC7E400F37EEE /* NSObject+A2DynamicDelegate.h */; };
 		DBFB0A12184DC7FB00F37EEE /* NSCache+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DBFB09F3184DC7E400F37EEE /* NSCache+BlocksKit.h */; };
-		DBFB0A13184DC7FB00F37EEE /* NSURLConnection+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DBFB09F5184DC7E400F37EEE /* NSURLConnection+BlocksKit.h */; };
 		DBFB0A19184DC82100F37EEE /* MFMailComposeViewController+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFB0A16184DC82000F37EEE /* MFMailComposeViewController+BlocksKit.m */; };
 		DBFB0A1A184DC82100F37EEE /* MFMessageComposeViewController+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFB0A18184DC82100F37EEE /* MFMessageComposeViewController+BlocksKit.m */; };
 		DBFB0A1B184DC82900F37EEE /* MFMailComposeViewController+BlocksKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DBFB0A15184DC82000F37EEE /* MFMailComposeViewController+BlocksKit.h */; };
@@ -256,7 +252,6 @@
 				DBFB0A10184DC7FB00F37EEE /* NSObject+A2BlockDelegate.h in CopyFiles */,
 				DBFB0A11184DC7FB00F37EEE /* NSObject+A2DynamicDelegate.h in CopyFiles */,
 				DBFB0A12184DC7FB00F37EEE /* NSCache+BlocksKit.h in CopyFiles */,
-				DBFB0A13184DC7FB00F37EEE /* NSURLConnection+BlocksKit.h in CopyFiles */,
 				DBFB09DD184DC7C600F37EEE /* NSArray+BlocksKit.h in CopyFiles */,
 				DBFB09DE184DC7C600F37EEE /* NSDictionary+BlocksKit.h in CopyFiles */,
 				DBFB09DF184DC7C600F37EEE /* NSIndexSet+BlocksKit.h in CopyFiles */,
@@ -370,8 +365,6 @@
 		DBFB09F0184DC7E400F37EEE /* A2DynamicDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = A2DynamicDelegate.m; sourceTree = "<group>"; };
 		DBFB09F3184DC7E400F37EEE /* NSCache+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSCache+BlocksKit.h"; sourceTree = "<group>"; };
 		DBFB09F4184DC7E400F37EEE /* NSCache+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSCache+BlocksKit.m"; sourceTree = "<group>"; };
-		DBFB09F5184DC7E400F37EEE /* NSURLConnection+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSURLConnection+BlocksKit.h"; sourceTree = "<group>"; };
-		DBFB09F6184DC7E400F37EEE /* NSURLConnection+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSURLConnection+BlocksKit.m"; sourceTree = "<group>"; };
 		DBFB09F7184DC7E400F37EEE /* NSObject+A2BlockDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+A2BlockDelegate.h"; sourceTree = "<group>"; };
 		DBFB09F8184DC7E400F37EEE /* NSObject+A2BlockDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+A2BlockDelegate.m"; sourceTree = "<group>"; };
 		DBFB09F9184DC7E400F37EEE /* NSObject+A2DynamicDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+A2DynamicDelegate.h"; sourceTree = "<group>"; };
@@ -729,8 +722,6 @@
 			children = (
 				DBFB09F3184DC7E400F37EEE /* NSCache+BlocksKit.h */,
 				DBFB09F4184DC7E400F37EEE /* NSCache+BlocksKit.m */,
-				DBFB09F5184DC7E400F37EEE /* NSURLConnection+BlocksKit.h */,
-				DBFB09F6184DC7E400F37EEE /* NSURLConnection+BlocksKit.m */,
 			);
 			path = Foundation;
 			sourceTree = "<group>";
@@ -825,7 +816,6 @@
 				DBFB09B3184DC7B000F37EEE /* NSIndexSet+BlocksKit.h in Headers */,
 				DBFB09B0184DC7B000F37EEE /* NSDictionary+BlocksKit.h in Headers */,
 				DBFB09D1184DC7B000F37EEE /* NSOrderedSet+BlocksKit.h in Headers */,
-				DBFB0A05184DC7E400F37EEE /* NSURLConnection+BlocksKit.h in Headers */,
 				DBFB0A02184DC7E400F37EEE /* NSCache+BlocksKit.h in Headers */,
 				DBFB0A0B184DC7E400F37EEE /* NSObject+A2DynamicDelegate.h in Headers */,
 				DBFB09FE184DC7E400F37EEE /* A2DynamicDelegate.h in Headers */,
@@ -1042,7 +1032,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBFB0A06184DC7E400F37EEE /* NSURLConnection+BlocksKit.m in Sources */,
 				DBFB0A03184DC7E400F37EEE /* NSCache+BlocksKit.m in Sources */,
 				DBFB0A31184DC83200F37EEE /* UIAlertView+BlocksKit.m in Sources */,
 				DBFB0A34184DC83200F37EEE /* UIGestureRecognizer+BlocksKit.m in Sources */,
@@ -1124,7 +1113,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBFB0A07184DC7E400F37EEE /* NSURLConnection+BlocksKit.m in Sources */,
 				DBFB0A04184DC7E400F37EEE /* NSCache+BlocksKit.m in Sources */,
 				DBFB09D3184DC7B000F37EEE /* NSOrderedSet+BlocksKit.m in Sources */,
 				DBFB09B5184DC7B000F37EEE /* NSIndexSet+BlocksKit.m in Sources */,
